@@ -1,6 +1,6 @@
 const title = function (data) {
   return `
-        <h2>${data}</h2>
+        <h3>${data}</h3>
         
         `;
 };
